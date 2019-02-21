@@ -1,6 +1,0 @@
-public class Barbarian extends Defender{
-
-    public Barbarian(String name, int healthPoints, Weapon weapon) {
-        super(name, healthPoints, weapon);
-    }
-}
